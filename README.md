@@ -1,6 +1,6 @@
 Esse é o Primeiro Projeto a ser entregue solicitado pelo Bootcamp QFT
 
-A documentação sugerida no desafio do projeto deve possuir a seguinte documentação:
+Os entregáveis sugeridos no desafio do projeto deve possuir a seguinte documentação:
 
 1 Plano de Fluxo de Trabalho desenvolvido e do ciclo de vida do bug 
 
